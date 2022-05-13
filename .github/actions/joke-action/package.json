@@ -12,6 +12,7 @@
   "dependencies": {
     "@actions/core": "^1.8.1",
     "request": "^2.88.2",
-    "request-promise": "^4.2.6"
+    "request-promise": "^4.2.6",
+    "tunnel": "^0.0.6"
   }
 }
